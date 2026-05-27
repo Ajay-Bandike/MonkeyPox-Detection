@@ -15,10 +15,8 @@ Monkeypox and COVID-19 share similar symptoms like fever, fatigue, cough, sore t
 | Algorithm | Accuracy |
 |---|---|
 | 🥇 AdaBoost | 99% |
-| MLP (Multi-Layer Perceptron) | ~97% |
-| LDA (Linear Discriminant Analysis) | ~95% |
-
-> AdaBoost was selected as the final model due to its highest prediction accuracy.
+| MLP (Multi-Layer Perceptron) | ~98% |
+| LDA (Linear Discriminant Analysis) | ~97% |
 
 ---
 
